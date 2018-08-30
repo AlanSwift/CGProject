@@ -1,2 +1,2 @@
 # CGProject for zju course
-&emsp;&emsp;效果比较菜...
+&emsp;&emsp; A plane controlled by human flying in the city.
